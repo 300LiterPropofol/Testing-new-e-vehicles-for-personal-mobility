@@ -2,7 +2,9 @@
 TME 180 Automotive Engineering Project Chalmers 
 
 # Read me first
-**Every folder contains the whole software for its e-vehicle type**  
+**The master branch only contains introducton, to find the software needed you need to go to other branches in this repository**  
+
+**Every branch contains the whole software for its e-vehicle type**  
 i.e. E-bike and conventional bike analysis folder contains the whole software to do the analysis for conventional bikes  
 E-bike and conventional bike analysis-without lidar folder contains the whole software to do the analysis for conventional bikes when not considering using lidar data  
 E-scooter analysis folder contains the whole software to do the analysis for e-scooters  
